@@ -45,5 +45,9 @@ Here is a simple **HTML & CSS** snippet from the project:
             alert('Button was clicked!');
         }
     </script>
+   <div class="collaborators">
+        <p>👥 <span>Collaborators:</span> Ritika, Riva, Tishya, Yakshi</p>
+    </div>
+</div>
 </body>
 </html>
