@@ -38,6 +38,12 @@ Here is a simple **HTML & CSS** snippet from the project:
 </head>
 <body>
     <h1>Welcome to My Project 🚀</h1>
-    <button class="btn">Click Me!</button>
+    <button class="btn" onclick="buttonClicked()">Click Me!</button>
+
+    <script>
+        function buttonClicked() {
+            alert('Button was clicked!');
+        }
+    </script>
 </body>
 </html>
