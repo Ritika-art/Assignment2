@@ -1,12 +1,11 @@
-# 🌟 Weather_app
+# WEATHER APP
 
 ## 📌 Description
-​The Weather App repository hosts a web application that delivers real-time weather updates for any location. Developed using HTML, CSS, and JavaScript, the app fetches data from the OpenWeatherMap API to provide current weather conditions, a 5-day forecast, and an explore section featuring weather information from various cities. ​
-
-
+A weather app provides real-time weather updates, forecasts, and alerts, helping users plan their day with accurate information on temperature, humidity, wind speed, and precipitation. It offers easy-to-read visuals and notifications for current and future conditions, ensuring users stay informed and prepared.
 ## 🎨 Demo Preview (HTML & CSS)
 Here is a simple **HTML & CSS** snippet from the project:
-```html
+
+'''html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -38,14 +37,8 @@ Here is a simple **HTML & CSS** snippet from the project:
 </head>
 <body>
     <h1>Welcome to My Project 🚀</h1>
-    <button class="btn" onclick="buttonClicked()">Click Me!</button>
-
-    <script>
-        function buttonClicked() {
-            alert('Button was clicked!');
-        }
-    </script>
-   <div class="collaborators">
+    <button class="btn">Click Me!</button>
+    <div class="collaborators">
         <p>👥 <span>Collaborators:</span> Ritika, Riva, Tishya, Yakshi</p>
     </div>
 </div>
